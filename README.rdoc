@@ -1,0 +1,3 @@
+=Tapioca Templates
+
+  rails AppName -m http://github.com/iamsolarpowered/templates/raw/master/base.rb
